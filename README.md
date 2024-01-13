@@ -6,6 +6,9 @@
 
 The goal of this project is to build a simple RAG chatbot that will answer questions regarding my resume.
 
+This project borrows the code from  
+https://gitlab.com/juliensimon/huggingface-demos/-/blob/main/langchain/rag-demo-sagemaker-textract/Building%20a%20simple%20RAG%20chatbot.ipynb
+
 ## Usage
 
 Written in Python 3.9.9. Some packages used:
